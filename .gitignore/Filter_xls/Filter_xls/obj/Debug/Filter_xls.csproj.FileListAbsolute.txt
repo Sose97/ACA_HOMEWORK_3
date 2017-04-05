@@ -1,0 +1,6 @@
+c:\users\aren\documents\visual studio 2015\Projects\Filter_xls\Filter_xls\bin\Debug\Filter_xls.exe.config
+c:\users\aren\documents\visual studio 2015\Projects\Filter_xls\Filter_xls\bin\Debug\Filter_xls.exe
+c:\users\aren\documents\visual studio 2015\Projects\Filter_xls\Filter_xls\bin\Debug\Filter_xls.pdb
+c:\users\aren\documents\visual studio 2015\Projects\Filter_xls\Filter_xls\obj\Debug\Filter_xls.csproj.ResolveComReference.cache
+c:\users\aren\documents\visual studio 2015\Projects\Filter_xls\Filter_xls\obj\Debug\Filter_xls.exe
+c:\users\aren\documents\visual studio 2015\Projects\Filter_xls\Filter_xls\obj\Debug\Filter_xls.pdb

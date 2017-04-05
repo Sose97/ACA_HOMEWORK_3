@@ -1,0 +1,5 @@
+amlet		(Name)
+artin		(Surename)
+2000	2050	(YearOfBirth, from-to)
+-1	10	(NumberOfKnownProgarmmingLanguages, from-to)
+122		(PhoneNumber)
